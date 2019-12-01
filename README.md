@@ -1,2 +1,2 @@
-#MyApp
-This is my app.
+# Learning GitHub
+This is just a repository I use to learn Git.
