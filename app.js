@@ -1,1 +1,1 @@
-console.log('JS does suck.')
+console.log('Hello world!')
