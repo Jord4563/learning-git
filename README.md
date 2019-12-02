@@ -1,10 +1,11 @@
 # Learning Git
 This is a repository I'm using to learn how to use Git.
 
-*This text will be italic*
-_This will also be italic_
+Even though in the raw file there's a line br
+eak in th
+is sentence, it won't show wnhen parsed.
 
-**This text will be bold**
-__This will also be bold__
+Look! You can have *italic* and **bold** text!
 
-_You **can** combine them_
+
+__You can also *combine* them__
