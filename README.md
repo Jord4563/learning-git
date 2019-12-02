@@ -20,7 +20,7 @@ We can also add images!
 
 ![GitHub Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Font_Awesome_5_brands_github.svg/54px-Font_Awesome_5_brands_github.svg.png)
 
-You can add headers to the README, ranging from \<h1\> to <h6>.
+You can add headers to the README, ranging from \<h1\> to \<h6\>.
 
 # h1
 ## h2
@@ -28,3 +28,8 @@ You can add headers to the README, ranging from \<h1\> to <h6>.
 #### h4
 ##### h5
 ###### h6
+
+We can also add quotes to .md files as well.
+
+> School sucks.
+> [Unknown author]
