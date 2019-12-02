@@ -20,7 +20,7 @@ We can also add images!
 
 ![GitHub Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Font_Awesome_5_brands_github.svg/54px-Font_Awesome_5_brands_github.svg.png)
 
-You can add headers to the README, ranging from \<h1\> to \<h6\>.
+You can add headers to .md files, ranging from \<h1\> to \<h6\>.
 
 # h1
 ## h2
@@ -29,7 +29,18 @@ You can add headers to the README, ranging from \<h1\> to \<h6\>.
 ##### h5
 ###### h6
 
-We can also add quotes to .md files as well.
+We also can add quotes to the page! (I don't know why you would need to.)
 
-> School sucks.
-> [Unknown author]
+> School sucks. - Unknown
+
+## GitHub-only markdown
+
+We can add code to the page and let GitHub style it for us!
+
+```javascript
+function annoy() {
+  alert("Ha you can't stop this script!");
+  annoy();
+}
+annoy();
+```
