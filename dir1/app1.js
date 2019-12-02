@@ -1,1 +1,1 @@
-console.log("Hi! I'm a script!")
+console.log("Hi! I'm a script!");
