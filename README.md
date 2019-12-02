@@ -44,3 +44,19 @@ function annoy() {
 }
 annoy();
 ```
+
+We can add tasks to be done.
+
+- [x] Completed task
+- [ ] Incomplete task
+
+Apparently you can have tables too.
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
+There's more stuff, but I don't really care about it right now.
+
+And of course, there's emoji! :grin:
